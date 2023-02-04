@@ -1,3 +1,5 @@
+A modern UI weather app for seeing all weather details for the city you search using React JS and OpenWeather API.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
